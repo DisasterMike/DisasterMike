@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... video games, music and board games/
 - 🌱 I’m currently learning ... Unity.
 - 💞️ I’m looking to collaborate on ... various projects.
-- 📫 How to reach me ... via email! - michaelstump@gmail.com
+- 📫 How to reach me ... via email!
 
 <!---
 DisasterMike/DisasterMike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
