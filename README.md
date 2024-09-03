@@ -1,3 +1,7 @@
+
+<img width="48">![LogoWithName6](https://github.com/user-attachments/assets/534a8e66-0298-487e-81c2-e272dc852952)</img>
+
+
 <h1 align="center">Hi 👋, I'm Michael!</h1>
 <h3 align="center">A passionate full stack developer who also creates his own video games as a hobby. I have experience using front end and back end languages such as; Ruby on Rails, Javascript, SQL, HTML and CSS, as well as skills in C#.</h3>
 
