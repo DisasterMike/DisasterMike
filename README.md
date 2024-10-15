@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Michael!</h1>
 <hr>
-<h3 align="center">I am full stack developer who also creates his own video games as a hobby. I studied web development at Le Wagon in Tokyo. I have experience using front and back end languages such as; Ruby on Rails, Javascript, SQL, HTML and CSS and more.
+<h3 align="center">I am full stack developer who also creates his own video games as a hobby. I studied web development at Le Wagon in Tokyo. I have experience using front and back end languages such as; Ruby on Rails, Javascript, SQL, Node.js, HTML and CSS and more.
 <br>I also create games in C# using the Unity engine.</h3>
 
 <p align="center">For more information, check out my <strong>portfolio</strong> at https://www.one2manyhats.com/</p>
